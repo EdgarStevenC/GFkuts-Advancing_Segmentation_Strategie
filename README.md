@@ -35,8 +35,16 @@ Collect image samples with a random distribution. "between 40% and 60% of the to
 
 ### **Strategy 2**
 
-Classify the samples using a clustering algorithm. In this case, **Kmeans** has been used 
+Classify the samples using a clustering algorithm. **Kmeans** has been used 
 
 <p align="center">
 <img src="./imgREADME/img5.png" alt="drawing" width="1000"/>  
 </p>
+
+A greater number of groups have been defined. This feature presents better results and allows segmenting more complex images
+complex images like these:
+
+<p align="center">
+<img src="./imgREADME/Complex images.PNG" alt="drawing" width="1000"/>  
+</p>
+
