@@ -21,9 +21,20 @@ This project was written in MatLab softwar. To run it: **open PX.m**
     
 ---
 
+## **GFKuts works thereby**
+
+### **Strategy 1**
+Collect image samples with a random distribution. "between 40% and 60% of the total samples"
 <p align="center">
 <img src="./imgREADME/img4.png" alt="drawing" width="1000"/>  
 </p>
+<p align="center">
+<img src="./imgREADME/img3.png" alt="drawing" width="1000"/>  
+</p>
+
+### **Strategy 2**
+
+Classify the samples using a clustering algorithm. In this case, **Kmeans** has been used 
 
 <p align="center">
 <img src="./imgREADME/img3.png" alt="drawing" width="1000"/>  
