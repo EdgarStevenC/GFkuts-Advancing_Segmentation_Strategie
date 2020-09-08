@@ -4,7 +4,7 @@
 <img src="./imgREADME/baner.PNG" alt="drawing" width="1000"/>  
 </p>
 
-This guide has been developed with images captured with the remote sensing camera * parrot sequoia *. The *RGN image* represents the reconstruction of a multispectral image
+This guide has been developed with images captured with the remote sensing camera **parrot sequoia**. The **RGN image** represents the reconstruction of a multispectral image
 
 <p align="center">
 <img src="./imgREADME/img1.png" alt="drawing" width="1000"/>  
