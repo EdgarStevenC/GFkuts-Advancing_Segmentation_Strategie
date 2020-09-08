@@ -65,3 +65,32 @@ The aim is to indicate which are the masks. **Which are of vegetation and which 
 
 <sub> This must be done due to the random nature of the cluster. The masks change position each time the code is executed</sub>
  
+ **The result of grouping with four channels:**
+ <p align="center">
+<img src="./imgREADME/img11.PNG" alt="drawing" width="700"/>     
+</p>
+
+ <p align="center">
+<img src="./imgREADME/img9.PNG" alt="drawing" width="700"/>     
+</p>
+
+ <p align="center">
+<img src="./imgREADME/img11.PNG" alt="drawing" width="700"/>     
+</p>
+
+### **Strategy 3**
+
+Now **grabCut** optimization is used on the whole image
+
+ <p align="center">
+<img src="./imgREADME/img13.PNG" alt="drawing" width="700"/>     
+</p>
+
+
+### **Strategy 4**
+
+Finally a refinement stage through **Guided filter**
+
+ <p align="center">
+<img src="./imgREADME/img14.PNG" alt="drawing" width="700"/>     
+</p>
