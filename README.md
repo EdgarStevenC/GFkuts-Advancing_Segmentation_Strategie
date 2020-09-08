@@ -16,9 +16,7 @@ This project was written in MatLab softwar. To run it: **open PX.m**
     if you want to use another image change the reference in section:
     "% Read Dataset Chanel R-G-Re-N-RGB"
     
-    Run "PX.m"
-    
-    
+    Run "PX.m"  
 ---
 
 ## **GFKuts works thereby**
@@ -40,7 +38,6 @@ Classify the samples using a clustering algorithm. **Kmeans** has been used
 <p align="center">
 <img src="./imgREADME/img5.png" alt="drawing" width="1000"/>  
 </p>
-
 A greater number of groups have been defined. This characteristic presents better results and allows segmenting more complex images.
 
 Complex images like these:
@@ -49,3 +46,22 @@ Complex images like these:
 <img src="./imgREADME/Complex images.PNG" alt="drawing" width="1000"/>  
 </p>
 
+The masks found will be presented as follows:
+<p align="center">
+<img src="./imgREADME/img6.png" alt="drawing" width="1000"/>   
+</p>
+
+#### **In the command window will appear:**
+<p align="center">
+<img src="./imgREADME/img7.PNG" alt="drawing" width="1000"/>     
+</p>
+
+---
+The aim is to indicate which are the masks. **Which are of vegetation and which are of the ground**
+
+    Enter: VEGETETION MASK like this "mask1 + mask2 + .." here: mask1+mask3 
+    Enter: GROUND MASK like this "mask1 + mask2 + .." here: mask2
+---
+
+<sub> This must be done due to the random nature of the cluster. The masks change position each time the code is executed</sub>
+ 
