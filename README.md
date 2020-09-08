@@ -41,8 +41,9 @@ Classify the samples using a clustering algorithm. **Kmeans** has been used
 <img src="./imgREADME/img5.png" alt="drawing" width="1000"/>  
 </p>
 
-A greater number of groups have been defined. This feature presents better results and allows segmenting more complex images
-complex images like these:
+A greater number of groups have been defined. This characteristic presents better results and allows segmenting more complex images.
+
+Complex images like these:
 
 <p align="center">
 <img src="./imgREADME/Complex images.PNG" alt="drawing" width="1000"/>  
