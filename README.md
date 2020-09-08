@@ -46,14 +46,14 @@ Complex images like these:
 <img src="./imgREADME/Complex images.PNG" alt="drawing" width="1000"/>  
 </p>
 
-The masks found will be presented as follows:
+**The masks found will be presented as follows:**
 <p align="center">
 <img src="./imgREADME/img6.png" alt="drawing" width="1000"/>   
 </p>
 
 #### **In the command window will appear:**
 <p align="center">
-<img src="./imgREADME/img7.PNG" alt="drawing" width="1000"/>     
+<img src="./imgREADME/img7.PNG" alt="drawing" width="700"/>     
 </p>
 
 ---
