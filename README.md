@@ -4,7 +4,7 @@ Colorado JD, Calderon F, Mendez D, Petro E, Rojas JP, Correa ES, et al. (2020) A
 
 Jimenez-Sierra, D. A., Correa, E. S., Benítez-Restrepo, H. D., Calderon, F. C., Mondragon, I. F., & Colorado, J. D. (2021). Novel Feature-Extraction Methods for the Estimation of Above-Ground Biomass in Rice Crops. Sensors, 21(13), 4369. https://doi.org/10.3390/s21134369
 
-E. S. Correa, F. Calderon and J. D. Colorado, "GFkuts: a novel multispectral image segmentation method applied to precision agriculture," 2020 Virtual Symposium in Plant Omics Sciences (OMICAS), Bogotá, Colombia, 2020, pp. 1-6, doi: 10.1109/OMICAS52284.2020.9535659.
+E. S. Correa, F. Calderon and J. D. Colorado, "GFkuts: a novel multispectral image segmentation method applied to precision agriculture," 2020 Virtual Symposium in Plant Omics Sciences (OMICAS), Bogotá, Colombia, 2020, pp. 1-6, https://doi.org/10.1109/OMICAS52284.2020.9535659
 
 <p align="center">
 <img src="./imgREADME/baner.PNG" alt="drawing" width="1000"/>  
