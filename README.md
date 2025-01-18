@@ -100,3 +100,11 @@ Finally a refinement stage through **Guided filter**
  <p align="center">
 <img src="./imgREADME/GFKuts.png" alt="drawing" width="700"/>     
 </p>
+
+
+GFKuts approach by https://doi.org/10.3390/s21134369
+ <p align="center">
+<img src="./imgREADME/sensors-21-04369-g002.webp" alt="drawing" width="700"/>     
+</p>
+Open to providing guidance, support, or answers: e_correa@javeriana.edu.co
+https://www.omicas.co/investigadores/edgar-correa
