@@ -98,5 +98,5 @@ Now **grabCut** optimization is used on the whole image
 Finally a refinement stage through **Guided filter**
 
  <p align="center">
-<img src="./imgREADME/img14.png" alt="drawing" width="700"/>     
+<img src="./imgREADME/GFKuts.png" alt="drawing" width="700"/>     
 </p>
