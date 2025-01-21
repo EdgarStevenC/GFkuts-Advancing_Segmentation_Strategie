@@ -1,5 +1,7 @@
 # **"GFKuts" Hyperspectral image segmentation**
 
+DEMO --> https://drive.mathworks.com/sharing/b20314be-a491-461a-ade6-6ce0a0dc6738
+
 Colorado JD, Calderon F, Mendez D, Petro E, Rojas JP, Correa ES, et al. (2020) A novel NIR-image segmentation method for the precise estimation of above-ground biomass in rice crops. PLoS ONE 15(10): e0239591. https://doi.org/10.1371/journal.pone.0239591
 
 Jimenez-Sierra, D. A., Correa, E. S., Benítez-Restrepo, H. D., Calderon, F. C., Mondragon, I. F., & Colorado, J. D. (2021). Novel Feature-Extraction Methods for the Estimation of Above-Ground Biomass in Rice Crops. Sensors, 21(13), 4369. https://doi.org/10.3390/s21134369
