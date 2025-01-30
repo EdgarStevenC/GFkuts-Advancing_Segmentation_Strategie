@@ -1,7 +1,7 @@
 # **"GFKuts" Hyperspectral image segmentation**
 
 DEMO --> https://drive.mathworks.com/sharing/b20314be-a491-461a-ade6-6ce0a0dc6738 
- Symposium in Plant Omics Sciences 2021 (OMICAS) 
+ Symposium in Plant Omics Sciences 2021 (OMICAS): https://www.omicas.co/sites/default/files/2022-07/P4_EVENTO%20CIENT_PARTICIPACION_%20Edgar%20Correa_Simposio%202020.pdf
 
 Colorado JD, Calderon F, Mendez D, Petro E, Rojas JP, Correa ES, et al. (2020) A novel NIR-image segmentation method for the precise estimation of above-ground biomass in rice crops. PLoS ONE 15(10): e0239591. https://doi.org/10.1371/journal.pone.0239591
 
